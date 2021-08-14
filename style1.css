@@ -5,7 +5,7 @@
     color: #625C7E;;
     ;
 }
-a{
+a{s
     text-decoration : none;
 }
 
@@ -50,7 +50,7 @@ div h1{
     object-fit: cover;
 }
 .btn {
-    width: 40%;
+    width: 50%;
     height: 50px;
     cursor: pointer;
     text-decoration: none ;
@@ -58,4 +58,39 @@ div h1{
     color: black;
     background-color: white;
 }
+.experiences{
+    ;
+}
+main{
+    margin: 30px;
+    padding: 30px;
+    justify-content: center;
+}
+main h1{
+   font-size: 100px;
+   color: #7562E0;
+   }
+   .pi p{
+       font-size: 15px;
+   }
+   .pi p{
+    font-size: 15px;
+}
+   .pi{
+       flex-direction: row;
+       display: flex;
 
+}   
+.image{
+    width: 100%;
+    justify-content: center;
+    flex-direction: row;
+}
+.flex{
+display: inline;
+
+}
+.products p{
+    font-size: 1px;
+    
+}
